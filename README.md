@@ -1,27 +1,28 @@
-# package_name
+# processamento_imagem
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package processamento_imagem is used to:
+	Processamento:
+		- Comparação de histogramas
+		- Similaridade de estrutura
+		- Redimensionamento de imagem
+	Utilidades:
+		- Carregar imagem
+		- Salvar imagem
+		- Exibir imagem
+		- Exibir resultados
+		- Exibir histograma
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install processamento_imagem
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+pip install processamento_imagem
 ```
 
 ## Author
-My_name
+Charles
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
